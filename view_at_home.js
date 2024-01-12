@@ -34,6 +34,10 @@
 	var hostname = match[2];
 	var username = match[3];
 
+	if ( hostname === homeServer ) {
+		return;
+	}
+
 	// Create and style the loading message element
 	var loadingMessage = document.createElement( 'div' );
 	loadingMessage.textContent = 'Loading...';
