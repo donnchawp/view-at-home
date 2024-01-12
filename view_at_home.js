@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         View a Mastodon account or post through your own instance
-// @namespace    http://tampermonkey.net/
+// @namespace    https://odd.blog
 // @version      0.1
 // @description  Add a "View at home" button when looking at a Mastodon account and it will bring you back to your home instance. It asks for your home instance on first run.
 // @author       Donncha O Caoimh & chatGPT4
