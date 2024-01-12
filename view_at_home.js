@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Add a "View at home" button when looking at a Mastodon account and it will bring you back to your home instance. It asks for your home instance on first run.
 // @author       Donncha O Caoimh & chatGPT4
-// @match        https://*/*
+// @match        https://*/@*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
